@@ -1,0 +1,1 @@
+Developed using SQL, PHP, HTML, JavaScript, and CSS, this project provides an online platform for managing and participating in auctions. It includes real-time bidding, secure user authentication, and a backend for bid tracking.
